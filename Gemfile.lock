@@ -5,7 +5,7 @@ GEM
       akamai-edgegrid (~> 1.0)
     akamai-edgegrid (1.0.6)
       inifile (~> 3.0)
-    gli (2.16.1)
+    gli (2.19.0)
     inifile (3.0.0)
     table_print (1.5.6)
 
